@@ -21,5 +21,6 @@
     * [`https://www.e-stat.go.jp/regional-statistics/ssdsview/municipality`](https://www.e-stat.go.jp/regional-statistics/ssdsview/municipality)
     * 全市区町村の総人口（A1101）と年齢3区分（A13）を使用
 
-# 共有データ
-* (https://drive.google.com/drive/folders/1a3xEnnfz1J6yQ2AMNqM3MqniVs-P_3pi?usp=share_link)
+# 実習用データの準備とGoogle Driveの設定
+* [共有データフォルダ（https://drive.google.com/drive/folders/1a3xEnnfz1J6yQ2AMNqM3MqniVs-P_3pi?usp=share_link）](https://drive.google.com/drive/folders/1a3xEnnfz1J6yQ2AMNqM3MqniVs-P_3pi?usp=share_link)にアクセスします．
+
