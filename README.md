@@ -22,5 +22,12 @@
     * 全市区町村の総人口（A1101）と年齢3区分（A13）を使用
 
 # 実習用データの準備とGoogle Driveの設定
-* [共有データフォルダ（https://drive.google.com/drive/folders/1a3xEnnfz1J6yQ2AMNqM3MqniVs-P_3pi?usp=share_link）](https://drive.google.com/drive/folders/1a3xEnnfz1J6yQ2AMNqM3MqniVs-P_3pi?usp=share_link)にアクセスします．
+1. [共有データフォルダ（https://drive.google.com/drive/folders/1a3xEnnfz1J6yQ2AMNqM3MqniVs-P_3pi?usp=share_link）](https://drive.google.com/drive/folders/1a3xEnnfz1J6yQ2AMNqM3MqniVs-P_3pi?usp=share_link)にアクセスします．
+1. 右上のログインボタンを押してGoogle Driveにログインします．<img width="1015" alt="screenshot" src="https://user-images.githubusercontent.com/12523507/204067502-43dd8455-b41d-43ed-93f6-3318376e0583.png">
 
+2. 左側の「共有アイテム」を押し，共有アイテムの「gisday2022」を右クリックして「ドライブへのショートカットを追加」を選びます．
+3. 「マイドライブ」を選んで「ショートカットを追加」ボタンを押します．
+4. 左側の「マイドライブ」押してマイドライブを表示すると，「gisday2022」フォルダが追加されています．
+5. 左上の「新規」ボタンを押して「新しいフォルダ」を選びます．
+6. フォルダ名を「gisday2022_export」にします．
+7. これでGoogle Driveの設定は完了です．
