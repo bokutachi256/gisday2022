@@ -23,11 +23,11 @@
 
 # 実習用データの準備とGoogle Driveの設定
 1. [共有データフォルダ（https://drive.google.com/drive/folders/1a3xEnnfz1J6yQ2AMNqM3MqniVs-P_3pi?usp=share_link）](https://drive.google.com/drive/folders/1a3xEnnfz1J6yQ2AMNqM3MqniVs-P_3pi?usp=share_link)にアクセスします．
-1. 右上のログインボタンを押してGoogle Driveにログインします．<img width="1015" alt="screenshot" src="https://user-images.githubusercontent.com/12523507/204067502-43dd8455-b41d-43ed-93f6-3318376e0583.png">
-
-2. 左側の「共有アイテム」を押し，共有アイテムの「gisday2022」を右クリックして「ドライブへのショートカットを追加」を選びます．
-3. 「マイドライブ」を選んで「ショートカットを追加」ボタンを押します．
-4. 左側の「マイドライブ」押してマイドライブを表示すると，「gisday2022」フォルダが追加されています．
-5. 左上の「新規」ボタンを押して「新しいフォルダ」を選びます．
-6. フォルダ名を「gisday2022_export」にします．
+1. 右上のログインボタンを押してGoogle Driveにログインします．<img width="1010" alt="screenshot" src="https://user-images.githubusercontent.com/12523507/204067538-d10bb5c3-e4a8-44cc-aa4e-43cc8f27616c.png">
+2. 左側の「共有アイテム」を押し，共有アイテムの「gisday2022」を右クリックして「ドライブへのショートカットを追加」を選びます．<img width="708" alt="screenshot" src="https://user-images.githubusercontent.com/12523507/204067573-f6116aba-227f-4f50-9dd7-596e76cf668f.png">
+3. 「マイドライブ」を選んで「ショートカットを追加」ボタンを押します．<img width="359" alt="screenshot" src="https://user-images.githubusercontent.com/12523507/204067595-5f84e326-0718-43b8-9b2d-63e8860e8d6f.png">
+4. 左側の「マイドライブ」押してマイドライブを表示すると，「gisday2022」フォルダが追加されています．<img width="686" alt="screenshot" src="https://user-images.githubusercontent.com/12523507/204067617-9bc347ad-6372-4076-a11f-e50c198a44a7.png">
+5. 左上の「新規」ボタンを押して「新しいフォルダ」を選びます．<img width="251" alt="screenshot" src="https://user-images.githubusercontent.com/12523507/204067632-da6f63f2-539f-434c-a2db-915fad476cde.png">
+<img width="303" alt="screenshot" src="https://user-images.githubusercontent.com/12523507/204067652-0273011b-e17f-48c3-895e-9ce436e935ec.png">
+6. フォルダ名を「gisday2022_export」にします．<img width="327" alt="screenshot" src="https://user-images.githubusercontent.com/12523507/204067684-79c32fff-ce9e-4625-aca7-27069bc0c636.png">
 7. これでGoogle Driveの設定は完了です．
